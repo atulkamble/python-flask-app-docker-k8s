@@ -10,6 +10,12 @@ Deploying a Python application on Minikube involves several steps, such as conta
 
 ### Steps to Deploy and Scale a Python App in Minikube
 
+### clone repo
+```
+git clone https://github.com/atulkamble/python-flask-app-docker-k8s.git
+cd python-flask-app-docker-k8s
+```
+
 #### 1. **Create a Python App**
 For this example, we will use a simple Flask app:
 
